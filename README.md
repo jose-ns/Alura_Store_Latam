@@ -1,3 +1,5 @@
+![Banner del proyecto](assets/banner.png)
+
 # 🛍️ Análisis de tiendas - Alura Store
 
 Este proyecto es un ejercicio práctico en el que se analiza el desempeño de las 4 tiendas de la cadena **Alura Store**, con el objetivo de ayudar al Sr. Juan a decidir cuál de ellas debería vender para iniciar un nuevo emprendimiento.
